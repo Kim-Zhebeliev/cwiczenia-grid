@@ -20,16 +20,6 @@ main{
     text-align: center;
     padding: 10%;
 }
-aside{
-    background-color: blue;
-    width: 25%;
-}
-section{
-    background-color: green;    
-}
-article{
-    background-color: bisque;
-}
 footer{
     background-color: brown;
 }

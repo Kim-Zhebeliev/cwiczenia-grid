@@ -1,0 +1,34 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+header{
+    background-color: yellow;
+    padding: 2%;
+}
+aside{
+    background-color: blue;
+    width: 20%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+.flex-container{
+    display: flex;
+}
+.flex-second{
+    width: 80%;
+}
+nav{
+    background-color: aquamarine;
+}
+main{
+    background-color: violet;
+    padding: 1%;
+    padding-top: 15%;
+    padding-bottom: 15%;
+}
+footer{
+    background-color: brown;
+}
