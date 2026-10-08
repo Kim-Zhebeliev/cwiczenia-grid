@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+header{
+    background-color: yellow;
+}
+main{
+    background-color: violet;
+    display: flex;
+    padding: 1%;
+}
+aside{
+    background-color: blue;
+    width: 25%;
+}
+section{
+    background-color: green;    
+    width: 75%;
+    height: 200%;
+}
+article{
+    background-color: bisque;
+}
+footer{
+    background-color: brown;
+}
