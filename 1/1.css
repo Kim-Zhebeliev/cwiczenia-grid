@@ -9,16 +9,17 @@ header{
 main{
     background-color: violet;
     display: flex;
-    padding: 1%;
+    padding: 2%;
 }
 aside{
     background-color: blue;
     width: 25%;
+    padding: 10%;
 }
 section{
     background-color: green;    
     width: 75%;
-    height: 200%;
+    padding: 10%;
 }
 article{
     background-color: bisque;
